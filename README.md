@@ -1,0 +1,1 @@
+These projects are part of the CodeBasics Resume Challenge series that helped me understand how to present to valuable insights to the stakeholder that would be responsible for drafting go to market strategies
